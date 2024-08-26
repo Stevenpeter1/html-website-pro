@@ -1,0 +1,40 @@
+body{
+    max-width: 100%;
+    min-width: 0%;
+}
+div{
+    width: 80%;
+    color: white;
+    background-color: rgba(199, 77, 247, 0.293);
+    padding: 0px 100px;
+    margin: 0px 20px;
+    border-radius: 20px;
+    height: fit-content;
+    text-transform: capitalize;
+    box-shadow:4px 4px 13px 13px blue , 10px 10px 13px 20px rgba(249, 0, 0, 0.595) ,
+    -7px -7px 13px 13px rgba(249, 0, 0, 0.595) 
+    
+}
+a{
+    color: rgb(177, 94, 255);
+    
+}
+h1 , h2 {
+    text-transform: capitalize;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: Garamond, serif;
+
+}
+
+h1 , h2{
+    text-shadow: 3px 2px 2px rgba(255, 0, 242, 0.585) ,  -3px -2px 2px rgba(106, 0, 176, 0.585)  ;
+}
+p{
+    width: 100%;
+}
+img{
+
+max-width: 1500px;
+}
